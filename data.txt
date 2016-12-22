@@ -1,0 +1,7 @@
+programming-hello
+what is my name-aadit
+ok-lol
+
+of force?-MLT-2
+what is the use append in python?-is used adding an element to the back of the list in python.
+extend-for extending a list in python
